@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://canhothuongmai24h.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-ZN_rWGDkt4Y/W2K8qE4XndI/AAAAAAAALNk/F8gn8ZiNKYUbVDUwHcXqhWw2aeIcuIUlACLcBGAs/s640/Untitled-1.jpg' width='500px'/><br/>Căn hộ giá rẻ chỉ với 330 triệu sở hữu ngay căn 2 phòng ngủ</a>. Hotline: 0934765209. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://canhothuongmai24h.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-ZN_rWGDkt4Y/W2K8qE4XndI/AAAAAAAALNk/F8gn8ZiNKYUbVDUwHcXqhWw2aeIcuIUlACLcBGAs/s640/Untitled-1.jpg' width='500px'/><br/>Bảng giá căn hộ Marina Riverside</a>. Hotline: 0934765209. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
